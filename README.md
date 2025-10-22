@@ -1,6 +1,6 @@
 (1) 프로젝트 주제
 
-Cinema Reservation System (콘솔 영화 예매 프로그램)
+Cinema Reservation System (영화 예매 프로그램)
 
 Java로 구현한 콘솔 기반 영화 예매 관리 시스템
 
